@@ -6,18 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
    
     <title>Cadastro de Personagens</title>
-    <style>
-        label, input { display: block;}
 
-        input, label {
-            font-size: 2.5em;
-            font-family: MS UI;
-        }
-
-        legend {
-            font-size: 40px;
-        }
-    </style>
    
 </head>
 <body>
